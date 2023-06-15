@@ -3,7 +3,7 @@
 #include <assert.h>
 #include <limits>
 #include <algorithm>
-
+#include <stdexcept>
 
 namespace osmpbf {
 namespace interface {
